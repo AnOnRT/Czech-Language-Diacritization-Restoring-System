@@ -1,0 +1,315 @@
+Evoluce přírodním výběrem a penicilin. Dva výroční „svatováclavské“ objevy minulosti poodhalují svět vědy i naši budoucnost.
+
+Na podzim 1836 se Charles Darwin vrátil z téměř pětileté cesty kolem světa. Kromě podlomeného zdraví měl nasbíráno vědeckého materiálu hned na několik životů. A co víc, vnitřně se změnil. Vyplouval jako biblicky pravověrný kreacionista (koneckonců vystudoval teologii), vracel se jako embryo evolucionisty. „Když jsem se coby přírodník plavil na lodi Beagle, byl jsem překvapen jistými fakty v zeměpisném rozšíření ústrojenců obývajících Jižní Ameriku a v geologických vztazích nynějších a dávných obyvatel této pevniny. Tato fakta se zdála vrhat jakési světlo na vznik druhů – ono tajemství z nejtajnějších…“
+Loď Beagle na cestách. Dobová ilustrace.Auto Conrad Martens, volné dílo, CC0 1.0
+
+Tušil, že za „oním tajemstvím“ se skrývá pozvolný vývoj, ale jak funguje? Víc než rok se prohrabával nahromaděnými údaji a usilovně o nich přemýšlel. Vymýšlel hypotézy, vážil je a zase zavrhoval, bloudil ve slepých uličkách, vše darmo. Během roku 1838 – i v souvislosti s vážnými plány na manželství – se odpovědi přiblížil na dosah. Došel k přesvědčení, že jedním ze základů evoluce jsou počáteční drobné dědičné odchylky. Když je nějaký druh rozdělený do dvou populací třeba vodním tokem, obě se postupně vzdalují tak dlouho, až z nich vzniknou dva rozdílné druhy. Zbývalo přijít na to, čím je tento proces poháněn a řízen.
+
+Řešení se dostavilo počátkem podzimu 1838, náhle, nečekaně. Darwin zrovna četl slavnou úvahu Thomase Malthuse, podle níž ničím neomezovaná lidská populace poroste rychleji než zdroje potravy tak dlouho, až jich bude nedostatek. Což jako první odskáčou ti nejslabší.
+
+Ve svých zápiscích ze dne 28. září 1838 Darwin zmínil četbu Malthuse a dále, aniž by přírodní výběr vysloveně jmenoval, popsal jeho účinky. „Dalo by se říci, že existuje síla, která se jako tisíc klínů snaží vtěsnat nejrůznější adaptované tvory do mezer v ekonomice přírody, nebo spíše tyto mezery vytváří tím, že vytlačuje tvory slabší. Původní příčinou všech těchto tlaků musí být snaha vybrat nejvhodnější stavbu a přizpůsobit ji probíhajícím změnám.“
+
+A mnohem později ve svém životopise – který se s každodenními zápisky místy rozchází – píše: „V říjnu 1838, tedy patnáct měsíců poté, co jsem začal se svým systematickým bádáním, jsem si náhodou pro zábavu četl Malthusův spis O populaci, a jelikož dlouhodobé pozorování zvyklostí zvířat a rostlin mne důkladně připravilo na ideu neustálého boje o přežití, okamžitě mne napadlo, že za takových podmínek budou výhodné odchylky zachovány a nevýhodné zaniknou. Výsledkem bude vznik nových druhů. Konečně jsem tak dospěl k teorii, podle které jsem mohl stavět.“
+Charles Darwin, fotografie pořízená kolem roku 1854. Foto Maull & Fox, volné dílo, CC0 1.0
+
+Proces evoluce je tedy hnán hladem a regulován přírodním výběrem.
+
+Jakkoli Darwin už předtím chápal význam druhových variací, souvislost mezi přírodním a umělým výběrem, souboj mezi živočišnými druhy o přežití, zjevnou fyziologickou vazbu mezi jednotlivými druhy i nepředstavitelně dlouhou časovou škálu evolučních dějů, jakkoli vlastně nosil svou ideu evoluce přírodním výběrem v hlavě už měsíce předtím, její vznik spojuje ve svých poznámkách právě se dnem 28. září 1838, kdy zažil onen bájný stav heuréka, stav docvaknutí posledního dílu skládanky. Múzičtější z historiků to nazývají malthusiánské prozření nebo dokonce malthusiánské zjevení.
+Reverend Malthus a jeho -ismus
+
+„Boj o existenci je Malthusova teorie aplikovaná v mnohem větším měřítku na celou živočišnou a rostlinnou říši,“ napsal Charles Darwin v proslulém spise O vývoji druhů přírodním výběrem z roku 1859. (Ano, dvacet let trvalo, než svoji teorii vypulíroval a odvážil se ji zveřejnit.)
+
+Rovněž Darwinův přítel a vědecký konkurent Alfred Wallace vzpomínal: „Možná tou nejdůležitější knihou, kterou jsem přečetl (o pár let později než Darwin, FH), byla Malthusova Populace, kterou jsem velmi obdivoval pro fakta obsažená v knize i pro příslušné logické závěry. Byla to první práce, kterou jsem do té doby přečetl, v níž se hovořilo o filosofické problematice biologie; hlavní zásady jsem si zapamatoval navždy a o dvacet let později mi poskytly dlouho hledaný klíčový faktor pro teorii evoluce živých druhů.“ (Wallace a Darwin po dohodě zveřejnili tuto teorii společně, ale všichni včetně samotného Wallace uznali Darwinovu prioritu.)
+
+Thomas Malthus stejně jako Darwin vystudoval v Cambridge teologii (a předtím svoji oblíbenou matematiku). Zároveň se zajímal o problémy obyvatelstva v řadě evropských zemí včetně Ruska. V roce 1797 se – jednatřicetiletý – stal anglikánským pastorem, rok nato anonymně vydal spisek Esej o principu populace. Napsal ho velmi výstižně a srozumitelně, vystavěl ho na základech přísné matematické logiky (což bylo v oboru sociálních věd novum). Knížka se stala bestsellerem a do Malthusovy smrti v roce 1834 vyšla (už pod autorovým jménem) ještě pětkrát.
+Titulní strana Eseje o principu populace T.H. Malthuse, vydání z roku 1826. volné dílo, CC0 1.0
+
+Oč v ní šlo? Velmi zjednodušeně: Člověk nikdy nemůže dosáhnout dokonalosti, poněvadž mu to nedovolí hlad. Hlad bude mít proto, že počet lidí poroste geometrickou řadou (1, 2, 4, 8...), zatímco množství potravin pouze řadou aritmetickou (1, 2, 3...). Existují dvě linie řešení: Té „lidské“ (pohlavní zdrženlivost, popřípadě spotřební skromnost) Malthus moc nevěřil; soudil, že lidé jako celek jsou od přírody poživační a množí se nekontrolovatelně. Spíš proto spoléhal na regulaci takříkajíc přirozenou – hladomory, epidemie, války. Proto také vystupoval proti všem formám sociálních podpor chudým, obecněji pak proti veškerým regulačním zásahům státu do ekonomiky. Jeho učení se začalo říkat malthusiánství.
+Thomas Malthus, autor teorie o růstu populace.Foto volné dílo, CC0 1.0
+
+Sám Malthus se přesně podle vlastnoústně hlásaných zásad oženil až ve čtyřiceti. Zplodil tři děti, což se při tehdejší úmrtnosti asi nejvíc blížilo prosté reprodukci v jeho vrstvě.
+Legrace v misce
+
+Druhý dnešní svatováclavský objev je přesně dvakrát mladší než ten Darwinův a také mnohem známější, takže jen stručně: Mikrobiolog Alexander Fleming jako pravý Skot oplýval šetrností a jen velmi nerad věci vyhazoval. Jeho oblíbenou větou prý bylo: „Dejte to někam bokem. Mohlo by se to hodit.“
+
+Během první poloviny roku 1928 Fleming coby patolog jedné londýnské nemocnice studoval bakterie stafylokoků, mikrobů k lidskému tělu běžně neutrálních, avšak schopných také infekce. Časem se v jeho malé laboratoři nakupila spousta nádobek s obsahy v různém stadiu nechutnosti. Když po návratu z dovolené přece jen musel krapet uklidit pro další práci, narazil 28. září 1928 na misku s mikroby, kde bujela plíseň. Nebylo to nic neobvyklého, plísně se dostanou všude vzduchem. Každý jiný by to vyhodil jako banalitu, jenže Fleming si všechno, když už to musel vyhodit, důkladně prohlédl. A všiml si, že kolem sametových ostrůvků plísně mikroby odumřely. Díky přítomnému kolegovi se zachoval i Flemingův bezprostřední komentář: „Tohle je legrační...“
+Profesor Alexander Fleming ve své londýnské laboratoři. V roce 1928 zjistil, že plíseň Penicillium notatum zabíjí některé kmeny bakterií.   Foto volné dílo, CC0 1.0
+
+Ze zvědavosti kousek plísně odtrhl a přesadil do živného roztoku, aby si jí vypěstoval víc. Brzy zjistil, že neznámá látka z plísně působí i na jiné druhy mikrobů než stafylokoky, a to dokonce i ve velmi zředěném stavu. Když se dalšími pokusy na ukázalo, že šťáva z plísně není jedovatá, odhodlal se ji Flemingův kolega vypít. Nic se mu nestalo.
+
+V publikaci napřesrok v červnu Fleming podle matečné plísně Penicillium notatum nazval novou účinnou látku penicilin. V závěrečném shrnutí píše: „Dá se předpokládat, že může být účinným antiseptickým prostředkem k použití vnějšímu i k injekční léčbě částí těla infikovaných mikroby, jež jsou citlivé na penicilin.“
+
+Zatím ale penicilin neúčinkoval. Rušily nečistoty, které ho zároveň rychle kazily. Tohle Fleming vyřešit nedokázal, úkol vyčistit penicilin nebyla práce pro bakteriologa. Teprve chemici Ernst Chain a Howard Florey během druhé světové války v Americe dokázali připravit penicilin dostatečně čistý a ve velkém. Všichni tři jmenovaní dostali v roce 1945 Nobelovu cenu.
+Morfologie objevu
+
+Jako hlavní rozdíl mezi pojednávanými objevy asi většinu z nás napadne jejich prospěšnost. Zatímco penicilin zachránil miliony životů, přírodní evoluce „jen“ odhalila víc o přírodě, životě, člověku, aniž by vedla k nějakému přímému konkrétnímu užitku.
+
+Flemingův případ je klasickým příkladem, kdy objev nikdo nečeká a teprve jím začne další intenzivní výzkum. Takový objev ale nespadne z nebe, potenciální objevitel – řečeno s Pasteurem – „musí dělat věci“, tedy pokusničit, aktivně hledat, třebas něco jiného. Pro výsledek jiný než očekávaný se ustálil výraz serendipita.
+
+Klasickým serendiperem byl Kolumbus – hledal Indii, našel Ameriku. Fleming zkoumal mikroby, narazil na antibiotikum. Pasteur studoval účinky mikrobů slepičího moru na kuřata, přičemž náhodou použil i starou, oslabenou kulturu – a objevil princip aktivní imunizace. Röntgen chtěl důkladněji poznat vlastnosti výbojové trubice a objevil rentgenové záření. Becquerel pátral po dalších možných zdrojích rentgenového záření a objevil radioaktivitu. Kammerlingh-Onnes první zkapalnil helium a s jeho využitím měřil elektrický odpor kovů v blízkosti absolutní nuly. Objevil supravodivost.
+Dobový plakát na poštovní schránce nabízí: Penicilín vyléčí kapavku za čtyři dny.   Foto volné dílo, CC0 1.0
+
+Jestliže Flemingův nečekaný nález antibiotických účinku plísně proces objevování penicilinu zahajuje, otevírá, Darwinovo malthusiánské prozření naproti tomu objev přírodní evoluce završuje, uzavírá. Cesta k takovému rozhodujícímu, konečnému objevu bývá nezřídka trnitá, výsledek pracně naháněný.
+
+Těchto případů je ve vědě méně než těch flemingovských, ale najdou se. Podle legend Archimédovi, hledajícímu způsob měření čistoty zlata v královském obětním věnci, pomohla k jeho „heuréka!“ koupací vana. Mendělejev se několik let usilovně snažil uspořádat chemické prvky do smysluplného systému. Velmi se tím trápil. Až jednou slyšel ze sousedního pokoje Schumannův koncert, uvědomil si funkci oktáv v hudbě a – objevil periodický zákon prvků (tam se vlastnosti zprvu opakují po osmi prvcích). Kekulého zase pronásledovala otázka uspořádání atomů uhlíku v benzenu. Jednoho dne poklimbával před krbem, v němž všelijak tančily plameny, a v duchu uviděl, jak uhlíky v benzenu vytvářejí kruh.
+Od tušení k vědění
+
+Malthus ani Darwin ve své době nemohli vědět to, co my dnes. Oba však postihli něco velkého a hlubokého. Přitom strategie jejich cest k cíli se diametrálně lišily. Malthus si položil dva předpoklady, o nichž předpokládal, že platí (aritmetický růst zdrojů potravin, geometrický růst počtu hladových krků) a z nich pak vydedukoval logický závěr: Bez omezování populace jednou musí přijít hlad. Naproti tomu Darwin na cestě kolem světa nasbíral hromadu konkrétních faktů o zvířatech a ty pomocí indukce – s podporou Malthusova závěru coby důležité cihly do stavby evoluce – úspěšně zobecnil do „teorie, na které se dá stavět“.
+
+Pro lidstvo je malthusiánství životně důležité, ale pro přírodovědu je jenom jedním střípkem do mozaiky darwinismu.
+
+A když už jsme u těch teorií, pak i ony mohou stát jak na konci, tak na počátku procesu poznávání. Nečekané objevy svou teorii vždy předcházejí, pochopitelně. Co Röntgen věděl o elektronových obalech atomů, ve kterých vzniká rentgenové záření? Co Pasteur věděl o podstatě imunity? Co Becquerel o jaderných reakcích?
+
+Cíleně dobývaným objevům naopak teorie alespoň částečně předchází.
+
+Řada chemických prvků byla předpověděna z mezer v periodické tabulce. Černé díry vypočítal už v roce 1916 Schwarzschild, první byla objevena až za 56 let. Antihmotu vypočítal Dirac v roce 1928, první antičástice (pozitron) byla objevena 1932. Pauli předpověděl neutrina roku 1930, objevena byla 1956.
+„Pro lidstvo je malthusiánství životně důležité, ale pro přírodovědu je jenom jedním střípkem do mozaiky darwinismu.“
+
+ 
+
+Do této kapitolky spadá ještě jeden častý případ vztahu mezi tušenou existencí něčeho a jejím vědeckým důkazem. V některých případech je totiž přísný příčinný důkaz, jakkoli by byl pro vědu ideální, nedosažitelný. My můžeme pomocí spekter „číst“ v elektronových obalech atomů a tím kauzálně a kvantitativně vysvětlit rentgenové záření. Rozhodně ale nedokážeme „číst“ v mozku myšlenky a už vůbec ne rozfázovat kroky od vnějšího popudu k myšlence. A tak si pomáháme tím, že sledujeme velký počet případů a výsledek přijmeme za fakt poznaný alespoň pravděpodobnostně.
+
+Kupříkladu tušíme, že bohatství otupuje soucit nebo že moc korumpuje, ale dokázat to můžeme pouze tak, že testujeme velký počet lidí… a potom můžeme říct, že negativní vztah bohatství-soucit platí řekněme u tří čtvrtin lidí. Obrazně řečeno, my se od přírodo-zpytu či –zkumu uchylujeme k přírodo-pisu (a v popularizaci vědy – jak právě můžete vidět – až k přírodo-pindu). Tímto parciálně exaktním způsobem se badatelům podařilo potvrdit či vyvrátit účinky některých léků a terapeutických postupů, ale i řada mouder, rčení, předsudků, sociologických jevů. Nádherným příkladem efektu motýlích křídel neboli složitě promíchané pravděpodobnostní kauzality je předpovídání počasí z porůznu naměřených hodnot meteorologických veličin.
+S Darwinem v koncích
+
+Malthusiánství a darwinismus jsou do sebe pevně zaklesnuty v jakési podivné smyčce. První je jedním z hlavních důsledků druhého v oblasti lidského života, druhý by bez účasti prvního jako důležitého článku příčinného řetězce nefungoval.
+
+Darwinismus v kombinaci s malthusiánstvím klade otázky přesahující jednotlivé lidské životy: Jací a proč opravdu jsme a kam a proč směřujeme? K zodpovězení takových otázek je ale potřeba hlouběji zakomponovat ještě jednu vlivnou lidskou říši – kulturu nebo chcete-li civilizaci.
+
+Sám Malthus s účastí kultury počítal pouze ve svém předpokladu růstu potravin aritmetickou řadou (zřejmě podle něj mělo přibývat polí, chlévů, pastvin, rybolovu). V polovině 19. století však německý chemik Liebig vynalezl umělá hnojiva, což produkci zemědělských plodin znásobilo a zasadilo malthusiánství první ránu – díky vědě a technice začalo potravin přibývat rychleji než aritmeticky. Rána druhá se zřetelněji projevila od 60. let 20. století v podobě tzv. demografického paradoxu – čím líp si žiju, tím míň mám dětí (k čemuž, abychom nezapomněli, podstatně přispěl vynález hormonální antikoncepce).
+Liebigova chemická laboratoř. Odsud vzešla první umělá hnojiva. Ilustrace pochází přibližně z roku 1841.  Ilustrace volné dílo, CC0 1.0
+
+Kdesi jsem četl, že v českých zemích kolem roku 1880 měly rodiny čtyři až pět dětí, před první světovou válkou necelé čtyři, v roce 1930 už jen 2,9. V současnosti u nás na jednu ženu připadá asi 1,6 dítěte, což je hluboko pod hranicí prosté reprodukce. Počet lidí ve vyspělých zemích tedy neporoste geometricky.
+
+Po tomto zjištění jako by byl celý Malthus na odpis.
+
+V současnosti dalšímu růstu produkce nezávadných potravin začíná bránit stále větší vyčerpanost a znečištění prostředí, stagnaci populace zase v růstu spotřeby kompenzují stále větší nároky lidí – geneticky uložený imperativ „přežít, rozmnožit se, odchovat děti“ transmutoval v bytostnou touhu „mít se co nejlíp, maximálně si užít“ (rozuměj protočit co nejvíc statků). Zdá se, že v dostatečné míře neplatí předpoklad, že pokud se má člověk dost dobře, začne si vedle vlastního prospěchu víc všímat i druhých, okolí, budoucnosti; součástí odkazu po přírodním výběru totiž je i imperativ „nikdy neměj dost, nevíš, kdy se to bude hodit“.
+
+(Ostatně s tím přírodním výběrem to taky pokulhává: díky vědě, technice a humanismu přežívají stále neživotaschopnější jedinci, málo odolní, léků potřební, schopni počít pouze s asistencí medicíny a porodit na operačním stole císařským řezem.)
+Sýček Malthus a kosmické světlušky
+
+A tím se dostáváme ke stěžejním otázkám tohoto textu: Jaký vlastně je mocenský vztah přírody a kultury? Nakolik je vůle podporovaná znalostmi a inteligencí schopna blokovat ty negativní z odvěkých lidských pudů, instinktů, emocí – takových, díky nimž jsme se kdysi za dob ledových, hladomorů i všelikých pohrom procpali úzkým hrdlem vývoje, ale které dnes pro nás jako celek představují nástroje morálního hazardu? Do jaké míry dokážeme poslouchat svůj rozum? Může kulturní evoluce přeprat to přežilé z dědictví evoluce biologické? Svedou memy pozměnit geny? Nakolik dokážeme posunout skleněný strop přirozenosti, oddělující dohlédnutelné od dosažitelného?
+„Směr veletoku pozemské civilizace jako celku, ovlivňovaný nikoli jednotlivými Shakespeary, Einsteiny, Janáčky, nýbrž davem Smithů, Schmidtů, Šmídů, tedy i nadále určuje biologie, kultura je něco jako vítr nad vodami. “
+
+ 
+
+Exaktně se tohle nikdy nedozvíme. Můžeme se jen domýšlet z historie, z každodenního života a z psychologických pokusů, přičemž u každého z nás spolupůsobí osobní zkušenost a individuální míra sklonu k přijímání sebeklamů, ať lichotivých, nebo útěšných. Nicméně vypadá to, že veškerá kultura je jen poněkud subtilnější a diferencovanější projev přírodních zákonů a že rozum slouží hlavně k odůvodňování našich vposledku vždy nějak sobeckých zájmů (výjimky, budiž jim čest a sláva, coby vývojově maladaptivní zpravidla špatně dopadají).
+
+Za celou dobu své existence jsme se hluboko uvnitř moc nezměnili. Možná v honosnějších kulisách, možná s vyspělejšími nástroji, ale písničku hrajeme pořád stejnou. A není vůbec žádný objektivní důvod si namlouvat, že se to v historicky dohledné době nějak výrazněji zlepší.
+
+Směr veletoku pozemské civilizace jako celku, ovlivňovaný nikoli jednotlivými Shakespeary, Einsteiny, Janáčky, nýbrž davem Smithů, Schmidtů, Šmídů, tedy i nadále určuje biologie, kultura je něco jako vítr nad vodami. Občas sice zčeří na hladině vlnky, na nichž žijeme své životy, vlnky, které lokálně a krátkodobě mohou zamířit i proti proudu. Ne že by nestály za úsilí, v tu chvíli třeba prospějí jednotlivcům nebo i zástupům, ale konečný směr plynutí neovlivní.
+
+Všechny kultury, na jejichž vzniku se podílel přírodní výběr, dříve či později dospějí k nějaké obdobě malthusiánství i jeho spontánního řešení (nemusí to být hned války o tenčící se zdroje, stačí předčasná úmrtí z otráveného prostředí nebo potíže s reprodukcí). A potom velmi pravděpodobně zkolabují a zaniknou, rozpustí se v oceánu „nižších“, divočejších, odolnějších forem života.
+
+Kopulací darwinismu a malthusiánství v mé hlavě vznikla bláznivá představa: Co asi by spatřoval superman schopný libovolně souhlížet vesmír v nekonečném prostoru i čase? Nejspíš by pozoroval porůznu se mihotající světlušky kosmických civilizací tam, kde se pro ně naplnily podmínky; registroval by záblesky rozumu tu slabé, jinde a jindy silnější, některé kratičké, jiné delší podle toho, jak se každá civilizace během svého vzestupu vypořádala sama se sebou. Moc, opravdu moc bych si přál vidět, kolik by těch světýlek bylo a jak dlouho by zářily.
+
+Evoluce přírodním výběrem a penicilin. Dva výroční „svatováclavské“ objevy minulosti poodhalují svět vědy i naši budoucnost.
+
+Na podzim 1836 se Charles Darwin vrátil z téměř pětileté cesty kolem světa. Kromě podlomeného zdraví měl nasbíráno vědeckého materiálu hned na několik životů. A co víc, vnitřně se změnil. Vyplouval jako biblicky pravověrný kreacionista (koneckonců vystudoval teologii), vracel se jako embryo evolucionisty. „Když jsem se coby přírodník plavil na lodi Beagle, byl jsem překvapen jistými fakty v zeměpisném rozšíření ústrojenců obývajících Jižní Ameriku a v geologických vztazích nynějších a dávných obyvatel této pevniny. Tato fakta se zdála vrhat jakési světlo na vznik druhů – ono tajemství z nejtajnějších…“
+Loď Beagle na cestách. Dobová ilustrace.Auto Conrad Martens, volné dílo, CC0 1.0
+
+Tušil, že za „oním tajemstvím“ se skrývá pozvolný vývoj, ale jak funguje? Víc než rok se prohrabával nahromaděnými údaji a usilovně o nich přemýšlel. Vymýšlel hypotézy, vážil je a zase zavrhoval, bloudil ve slepých uličkách, vše darmo. Během roku 1838 – i v souvislosti s vážnými plány na manželství – se odpovědi přiblížil na dosah. Došel k přesvědčení, že jedním ze základů evoluce jsou počáteční drobné dědičné odchylky. Když je nějaký druh rozdělený do dvou populací třeba vodním tokem, obě se postupně vzdalují tak dlouho, až z nich vzniknou dva rozdílné druhy. Zbývalo přijít na to, čím je tento proces poháněn a řízen.
+
+Řešení se dostavilo počátkem podzimu 1838, náhle, nečekaně. Darwin zrovna četl slavnou úvahu Thomase Malthuse, podle níž ničím neomezovaná lidská populace poroste rychleji než zdroje potravy tak dlouho, až jich bude nedostatek. Což jako první odskáčou ti nejslabší.
+
+Ve svých zápiscích ze dne 28. září 1838 Darwin zmínil četbu Malthuse a dále, aniž by přírodní výběr vysloveně jmenoval, popsal jeho účinky. „Dalo by se říci, že existuje síla, která se jako tisíc klínů snaží vtěsnat nejrůznější adaptované tvory do mezer v ekonomice přírody, nebo spíše tyto mezery vytváří tím, že vytlačuje tvory slabší. Původní příčinou všech těchto tlaků musí být snaha vybrat nejvhodnější stavbu a přizpůsobit ji probíhajícím změnám.“
+
+A mnohem později ve svém životopise – který se s každodenními zápisky místy rozchází – píše: „V říjnu 1838, tedy patnáct měsíců poté, co jsem začal se svým systematickým bádáním, jsem si náhodou pro zábavu četl Malthusův spis O populaci, a jelikož dlouhodobé pozorování zvyklostí zvířat a rostlin mne důkladně připravilo na ideu neustálého boje o přežití, okamžitě mne napadlo, že za takových podmínek budou výhodné odchylky zachovány a nevýhodné zaniknou. Výsledkem bude vznik nových druhů. Konečně jsem tak dospěl k teorii, podle které jsem mohl stavět.“
+Charles Darwin, fotografie pořízená kolem roku 1854. Foto Maull & Fox, volné dílo, CC0 1.0
+
+Proces evoluce je tedy hnán hladem a regulován přírodním výběrem.
+
+Jakkoli Darwin už předtím chápal význam druhových variací, souvislost mezi přírodním a umělým výběrem, souboj mezi živočišnými druhy o přežití, zjevnou fyziologickou vazbu mezi jednotlivými druhy i nepředstavitelně dlouhou časovou škálu evolučních dějů, jakkoli vlastně nosil svou ideu evoluce přírodním výběrem v hlavě už měsíce předtím, její vznik spojuje ve svých poznámkách právě se dnem 28. září 1838, kdy zažil onen bájný stav heuréka, stav docvaknutí posledního dílu skládanky. Múzičtější z historiků to nazývají malthusiánské prozření nebo dokonce malthusiánské zjevení.
+Reverend Malthus a jeho -ismus
+
+„Boj o existenci je Malthusova teorie aplikovaná v mnohem větším měřítku na celou živočišnou a rostlinnou říši,“ napsal Charles Darwin v proslulém spise O vývoji druhů přírodním výběrem z roku 1859. (Ano, dvacet let trvalo, než svoji teorii vypulíroval a odvážil se ji zveřejnit.)
+
+Rovněž Darwinův přítel a vědecký konkurent Alfred Wallace vzpomínal: „Možná tou nejdůležitější knihou, kterou jsem přečetl (o pár let později než Darwin, FH), byla Malthusova Populace, kterou jsem velmi obdivoval pro fakta obsažená v knize i pro příslušné logické závěry. Byla to první práce, kterou jsem do té doby přečetl, v níž se hovořilo o filosofické problematice biologie; hlavní zásady jsem si zapamatoval navždy a o dvacet let později mi poskytly dlouho hledaný klíčový faktor pro teorii evoluce živých druhů.“ (Wallace a Darwin po dohodě zveřejnili tuto teorii společně, ale všichni včetně samotného Wallace uznali Darwinovu prioritu.)
+
+Thomas Malthus stejně jako Darwin vystudoval v Cambridge teologii (a předtím svoji oblíbenou matematiku). Zároveň se zajímal o problémy obyvatelstva v řadě evropských zemí včetně Ruska. V roce 1797 se – jednatřicetiletý – stal anglikánským pastorem, rok nato anonymně vydal spisek Esej o principu populace. Napsal ho velmi výstižně a srozumitelně, vystavěl ho na základech přísné matematické logiky (což bylo v oboru sociálních věd novum). Knížka se stala bestsellerem a do Malthusovy smrti v roce 1834 vyšla (už pod autorovým jménem) ještě pětkrát.
+Titulní strana Eseje o principu populace T.H. Malthuse, vydání z roku 1826. volné dílo, CC0 1.0
+
+Oč v ní šlo? Velmi zjednodušeně: Člověk nikdy nemůže dosáhnout dokonalosti, poněvadž mu to nedovolí hlad. Hlad bude mít proto, že počet lidí poroste geometrickou řadou (1, 2, 4, 8...), zatímco množství potravin pouze řadou aritmetickou (1, 2, 3...). Existují dvě linie řešení: Té „lidské“ (pohlavní zdrženlivost, popřípadě spotřební skromnost) Malthus moc nevěřil; soudil, že lidé jako celek jsou od přírody poživační a množí se nekontrolovatelně. Spíš proto spoléhal na regulaci takříkajíc přirozenou – hladomory, epidemie, války. Proto také vystupoval proti všem formám sociálních podpor chudým, obecněji pak proti veškerým regulačním zásahům státu do ekonomiky. Jeho učení se začalo říkat malthusiánství.
+Thomas Malthus, autor teorie o růstu populace.Foto volné dílo, CC0 1.0
+
+Sám Malthus se přesně podle vlastnoústně hlásaných zásad oženil až ve čtyřiceti. Zplodil tři děti, což se při tehdejší úmrtnosti asi nejvíc blížilo prosté reprodukci v jeho vrstvě.
+Legrace v misce
+
+Druhý dnešní svatováclavský objev je přesně dvakrát mladší než ten Darwinův a také mnohem známější, takže jen stručně: Mikrobiolog Alexander Fleming jako pravý Skot oplýval šetrností a jen velmi nerad věci vyhazoval. Jeho oblíbenou větou prý bylo: „Dejte to někam bokem. Mohlo by se to hodit.“
+
+Během první poloviny roku 1928 Fleming coby patolog jedné londýnské nemocnice studoval bakterie stafylokoků, mikrobů k lidskému tělu běžně neutrálních, avšak schopných také infekce. Časem se v jeho malé laboratoři nakupila spousta nádobek s obsahy v různém stadiu nechutnosti. Když po návratu z dovolené přece jen musel krapet uklidit pro další práci, narazil 28. září 1928 na misku s mikroby, kde bujela plíseň. Nebylo to nic neobvyklého, plísně se dostanou všude vzduchem. Každý jiný by to vyhodil jako banalitu, jenže Fleming si všechno, když už to musel vyhodit, důkladně prohlédl. A všiml si, že kolem sametových ostrůvků plísně mikroby odumřely. Díky přítomnému kolegovi se zachoval i Flemingův bezprostřední komentář: „Tohle je legrační...“
+Profesor Alexander Fleming ve své londýnské laboratoři. V roce 1928 zjistil, že plíseň Penicillium notatum zabíjí některé kmeny bakterií.   Foto volné dílo, CC0 1.0
+
+Ze zvědavosti kousek plísně odtrhl a přesadil do živného roztoku, aby si jí vypěstoval víc. Brzy zjistil, že neznámá látka z plísně působí i na jiné druhy mikrobů než stafylokoky, a to dokonce i ve velmi zředěném stavu. Když se dalšími pokusy na ukázalo, že šťáva z plísně není jedovatá, odhodlal se ji Flemingův kolega vypít. Nic se mu nestalo.
+
+V publikaci napřesrok v červnu Fleming podle matečné plísně Penicillium notatum nazval novou účinnou látku penicilin. V závěrečném shrnutí píše: „Dá se předpokládat, že může být účinným antiseptickým prostředkem k použití vnějšímu i k injekční léčbě částí těla infikovaných mikroby, jež jsou citlivé na penicilin.“
+
+Zatím ale penicilin neúčinkoval. Rušily nečistoty, které ho zároveň rychle kazily. Tohle Fleming vyřešit nedokázal, úkol vyčistit penicilin nebyla práce pro bakteriologa. Teprve chemici Ernst Chain a Howard Florey během druhé světové války v Americe dokázali připravit penicilin dostatečně čistý a ve velkém. Všichni tři jmenovaní dostali v roce 1945 Nobelovu cenu.
+Morfologie objevu
+
+Jako hlavní rozdíl mezi pojednávanými objevy asi většinu z nás napadne jejich prospěšnost. Zatímco penicilin zachránil miliony životů, přírodní evoluce „jen“ odhalila víc o přírodě, životě, člověku, aniž by vedla k nějakému přímému konkrétnímu užitku.
+
+Flemingův případ je klasickým příkladem, kdy objev nikdo nečeká a teprve jím začne další intenzivní výzkum. Takový objev ale nespadne z nebe, potenciální objevitel – řečeno s Pasteurem – „musí dělat věci“, tedy pokusničit, aktivně hledat, třebas něco jiného. Pro výsledek jiný než očekávaný se ustálil výraz serendipita.
+
+Klasickým serendiperem byl Kolumbus – hledal Indii, našel Ameriku. Fleming zkoumal mikroby, narazil na antibiotikum. Pasteur studoval účinky mikrobů slepičího moru na kuřata, přičemž náhodou použil i starou, oslabenou kulturu – a objevil princip aktivní imunizace. Röntgen chtěl důkladněji poznat vlastnosti výbojové trubice a objevil rentgenové záření. Becquerel pátral po dalších možných zdrojích rentgenového záření a objevil radioaktivitu. Kammerlingh-Onnes první zkapalnil helium a s jeho využitím měřil elektrický odpor kovů v blízkosti absolutní nuly. Objevil supravodivost.
+Dobový plakát na poštovní schránce nabízí: Penicilín vyléčí kapavku za čtyři dny.   Foto volné dílo, CC0 1.0
+
+Jestliže Flemingův nečekaný nález antibiotických účinku plísně proces objevování penicilinu zahajuje, otevírá, Darwinovo malthusiánské prozření naproti tomu objev přírodní evoluce završuje, uzavírá. Cesta k takovému rozhodujícímu, konečnému objevu bývá nezřídka trnitá, výsledek pracně naháněný.
+
+Těchto případů je ve vědě méně než těch flemingovských, ale najdou se. Podle legend Archimédovi, hledajícímu způsob měření čistoty zlata v královském obětním věnci, pomohla k jeho „heuréka!“ koupací vana. Mendělejev se několik let usilovně snažil uspořádat chemické prvky do smysluplného systému. Velmi se tím trápil. Až jednou slyšel ze sousedního pokoje Schumannův koncert, uvědomil si funkci oktáv v hudbě a – objevil periodický zákon prvků (tam se vlastnosti zprvu opakují po osmi prvcích). Kekulého zase pronásledovala otázka uspořádání atomů uhlíku v benzenu. Jednoho dne poklimbával před krbem, v němž všelijak tančily plameny, a v duchu uviděl, jak uhlíky v benzenu vytvářejí kruh.
+Od tušení k vědění
+
+Malthus ani Darwin ve své době nemohli vědět to, co my dnes. Oba však postihli něco velkého a hlubokého. Přitom strategie jejich cest k cíli se diametrálně lišily. Malthus si položil dva předpoklady, o nichž předpokládal, že platí (aritmetický růst zdrojů potravin, geometrický růst počtu hladových krků) a z nich pak vydedukoval logický závěr: Bez omezování populace jednou musí přijít hlad. Naproti tomu Darwin na cestě kolem světa nasbíral hromadu konkrétních faktů o zvířatech a ty pomocí indukce – s podporou Malthusova závěru coby důležité cihly do stavby evoluce – úspěšně zobecnil do „teorie, na které se dá stavět“.
+
+Pro lidstvo je malthusiánství životně důležité, ale pro přírodovědu je jenom jedním střípkem do mozaiky darwinismu.
+
+A když už jsme u těch teorií, pak i ony mohou stát jak na konci, tak na počátku procesu poznávání. Nečekané objevy svou teorii vždy předcházejí, pochopitelně. Co Röntgen věděl o elektronových obalech atomů, ve kterých vzniká rentgenové záření? Co Pasteur věděl o podstatě imunity? Co Becquerel o jaderných reakcích?
+
+Cíleně dobývaným objevům naopak teorie alespoň částečně předchází.
+
+Řada chemických prvků byla předpověděna z mezer v periodické tabulce. Černé díry vypočítal už v roce 1916 Schwarzschild, první byla objevena až za 56 let. Antihmotu vypočítal Dirac v roce 1928, první antičástice (pozitron) byla objevena 1932. Pauli předpověděl neutrina roku 1930, objevena byla 1956.
+„Pro lidstvo je malthusiánství životně důležité, ale pro přírodovědu je jenom jedním střípkem do mozaiky darwinismu.“
+
+ 
+
+Do této kapitolky spadá ještě jeden častý případ vztahu mezi tušenou existencí něčeho a jejím vědeckým důkazem. V některých případech je totiž přísný příčinný důkaz, jakkoli by byl pro vědu ideální, nedosažitelný. My můžeme pomocí spekter „číst“ v elektronových obalech atomů a tím kauzálně a kvantitativně vysvětlit rentgenové záření. Rozhodně ale nedokážeme „číst“ v mozku myšlenky a už vůbec ne rozfázovat kroky od vnějšího popudu k myšlence. A tak si pomáháme tím, že sledujeme velký počet případů a výsledek přijmeme za fakt poznaný alespoň pravděpodobnostně.
+
+Kupříkladu tušíme, že bohatství otupuje soucit nebo že moc korumpuje, ale dokázat to můžeme pouze tak, že testujeme velký počet lidí… a potom můžeme říct, že negativní vztah bohatství-soucit platí řekněme u tří čtvrtin lidí. Obrazně řečeno, my se od přírodo-zpytu či –zkumu uchylujeme k přírodo-pisu (a v popularizaci vědy – jak právě můžete vidět – až k přírodo-pindu). Tímto parciálně exaktním způsobem se badatelům podařilo potvrdit či vyvrátit účinky některých léků a terapeutických postupů, ale i řada mouder, rčení, předsudků, sociologických jevů. Nádherným příkladem efektu motýlích křídel neboli složitě promíchané pravděpodobnostní kauzality je předpovídání počasí z porůznu naměřených hodnot meteorologických veličin.
+S Darwinem v koncích
+
+Malthusiánství a darwinismus jsou do sebe pevně zaklesnuty v jakési podivné smyčce. První je jedním z hlavních důsledků druhého v oblasti lidského života, druhý by bez účasti prvního jako důležitého článku příčinného řetězce nefungoval.
+
+Darwinismus v kombinaci s malthusiánstvím klade otázky přesahující jednotlivé lidské životy: Jací a proč opravdu jsme a kam a proč směřujeme? K zodpovězení takových otázek je ale potřeba hlouběji zakomponovat ještě jednu vlivnou lidskou říši – kulturu nebo chcete-li civilizaci.
+
+Sám Malthus s účastí kultury počítal pouze ve svém předpokladu růstu potravin aritmetickou řadou (zřejmě podle něj mělo přibývat polí, chlévů, pastvin, rybolovu). V polovině 19. století však německý chemik Liebig vynalezl umělá hnojiva, což produkci zemědělských plodin znásobilo a zasadilo malthusiánství první ránu – díky vědě a technice začalo potravin přibývat rychleji než aritmeticky. Rána druhá se zřetelněji projevila od 60. let 20. století v podobě tzv. demografického paradoxu – čím líp si žiju, tím míň mám dětí (k čemuž, abychom nezapomněli, podstatně přispěl vynález hormonální antikoncepce).
+Liebigova chemická laboratoř. Odsud vzešla první umělá hnojiva. Ilustrace pochází přibližně z roku 1841.  Ilustrace volné dílo, CC0 1.0
+
+Kdesi jsem četl, že v českých zemích kolem roku 1880 měly rodiny čtyři až pět dětí, před první světovou válkou necelé čtyři, v roce 1930 už jen 2,9. V současnosti u nás na jednu ženu připadá asi 1,6 dítěte, což je hluboko pod hranicí prosté reprodukce. Počet lidí ve vyspělých zemích tedy neporoste geometricky.
+
+Po tomto zjištění jako by byl celý Malthus na odpis.
+
+V současnosti dalšímu růstu produkce nezávadných potravin začíná bránit stále větší vyčerpanost a znečištění prostředí, stagnaci populace zase v růstu spotřeby kompenzují stále větší nároky lidí – geneticky uložený imperativ „přežít, rozmnožit se, odchovat děti“ transmutoval v bytostnou touhu „mít se co nejlíp, maximálně si užít“ (rozuměj protočit co nejvíc statků). Zdá se, že v dostatečné míře neplatí předpoklad, že pokud se má člověk dost dobře, začne si vedle vlastního prospěchu víc všímat i druhých, okolí, budoucnosti; součástí odkazu po přírodním výběru totiž je i imperativ „nikdy neměj dost, nevíš, kdy se to bude hodit“.
+
+(Ostatně s tím přírodním výběrem to taky pokulhává: díky vědě, technice a humanismu přežívají stále neživotaschopnější jedinci, málo odolní, léků potřební, schopni počít pouze s asistencí medicíny a porodit na operačním stole císařským řezem.)
+Sýček Malthus a kosmické světlušky
+
+A tím se dostáváme ke stěžejním otázkám tohoto textu: Jaký vlastně je mocenský vztah přírody a kultury? Nakolik je vůle podporovaná znalostmi a inteligencí schopna blokovat ty negativní z odvěkých lidských pudů, instinktů, emocí – takových, díky nimž jsme se kdysi za dob ledových, hladomorů i všelikých pohrom procpali úzkým hrdlem vývoje, ale které dnes pro nás jako celek představují nástroje morálního hazardu? Do jaké míry dokážeme poslouchat svůj rozum? Může kulturní evoluce přeprat to přežilé z dědictví evoluce biologické? Svedou memy pozměnit geny? Nakolik dokážeme posunout skleněný strop přirozenosti, oddělující dohlédnutelné od dosažitelného?
+„Směr veletoku pozemské civilizace jako celku, ovlivňovaný nikoli jednotlivými Shakespeary, Einsteiny, Janáčky, nýbrž davem Smithů, Schmidtů, Šmídů, tedy i nadále určuje biologie, kultura je něco jako vítr nad vodami. “
+
+ 
+
+Exaktně se tohle nikdy nedozvíme. Můžeme se jen domýšlet z historie, z každodenního života a z psychologických pokusů, přičemž u každého z nás spolupůsobí osobní zkušenost a individuální míra sklonu k přijímání sebeklamů, ať lichotivých, nebo útěšných. Nicméně vypadá to, že veškerá kultura je jen poněkud subtilnější a diferencovanější projev přírodních zákonů a že rozum slouží hlavně k odůvodňování našich vposledku vždy nějak sobeckých zájmů (výjimky, budiž jim čest a sláva, coby vývojově maladaptivní zpravidla špatně dopadají).
+
+Za celou dobu své existence jsme se hluboko uvnitř moc nezměnili. Možná v honosnějších kulisách, možná s vyspělejšími nástroji, ale písničku hrajeme pořád stejnou. A není vůbec žádný objektivní důvod si namlouvat, že se to v historicky dohledné době nějak výrazněji zlepší.
+
+Směr veletoku pozemské civilizace jako celku, ovlivňovaný nikoli jednotlivými Shakespeary, Einsteiny, Janáčky, nýbrž davem Smithů, Schmidtů, Šmídů, tedy i nadále určuje biologie, kultura je něco jako vítr nad vodami. Občas sice zčeří na hladině vlnky, na nichž žijeme své životy, vlnky, které lokálně a krátkodobě mohou zamířit i proti proudu. Ne že by nestály za úsilí, v tu chvíli třeba prospějí jednotlivcům nebo i zástupům, ale konečný směr plynutí neovlivní.
+
+Všechny kultury, na jejichž vzniku se podílel přírodní výběr, dříve či později dospějí k nějaké obdobě malthusiánství i jeho spontánního řešení (nemusí to být hned války o tenčící se zdroje, stačí předčasná úmrtí z otráveného prostředí nebo potíže s reprodukcí). A potom velmi pravděpodobně zkolabují a zaniknou, rozpustí se v oceánu „nižších“, divočejších, odolnějších forem života.
+
+Kopulací darwinismu a malthusiánství v mé hlavě vznikla bláznivá představa: Co asi by spatřoval superman schopný libovolně souhlížet vesmír v nekonečném prostoru i čase? Nejspíš by pozoroval porůznu se mihotající světlušky kosmických civilizací tam, kde se pro ně naplnily podmínky; registroval by záblesky rozumu tu slabé, jinde a jindy silnější, některé kratičké, jiné delší podle toho, jak se každá civilizace během svého vzestupu vypořádala sama se sebou. Moc, opravdu moc bych si přál vidět, kolik by těch světýlek bylo a jak dlouho by zářily.
+
+Evoluce přírodním výběrem a penicilin. Dva výroční „svatováclavské“ objevy minulosti poodhalují svět vědy i naši budoucnost.
+
+Na podzim 1836 se Charles Darwin vrátil z téměř pětileté cesty kolem světa. Kromě podlomeného zdraví měl nasbíráno vědeckého materiálu hned na několik životů. A co víc, vnitřně se změnil. Vyplouval jako biblicky pravověrný kreacionista (koneckonců vystudoval teologii), vracel se jako embryo evolucionisty. „Když jsem se coby přírodník plavil na lodi Beagle, byl jsem překvapen jistými fakty v zeměpisném rozšíření ústrojenců obývajících Jižní Ameriku a v geologických vztazích nynějších a dávných obyvatel této pevniny. Tato fakta se zdála vrhat jakési světlo na vznik druhů – ono tajemství z nejtajnějších…“
+Loď Beagle na cestách. Dobová ilustrace.Auto Conrad Martens, volné dílo, CC0 1.0
+
+Tušil, že za „oním tajemstvím“ se skrývá pozvolný vývoj, ale jak funguje? Víc než rok se prohrabával nahromaděnými údaji a usilovně o nich přemýšlel. Vymýšlel hypotézy, vážil je a zase zavrhoval, bloudil ve slepých uličkách, vše darmo. Během roku 1838 – i v souvislosti s vážnými plány na manželství – se odpovědi přiblížil na dosah. Došel k přesvědčení, že jedním ze základů evoluce jsou počáteční drobné dědičné odchylky. Když je nějaký druh rozdělený do dvou populací třeba vodním tokem, obě se postupně vzdalují tak dlouho, až z nich vzniknou dva rozdílné druhy. Zbývalo přijít na to, čím je tento proces poháněn a řízen.
+
+Řešení se dostavilo počátkem podzimu 1838, náhle, nečekaně. Darwin zrovna četl slavnou úvahu Thomase Malthuse, podle níž ničím neomezovaná lidská populace poroste rychleji než zdroje potravy tak dlouho, až jich bude nedostatek. Což jako první odskáčou ti nejslabší.
+
+Ve svých zápiscích ze dne 28. září 1838 Darwin zmínil četbu Malthuse a dále, aniž by přírodní výběr vysloveně jmenoval, popsal jeho účinky. „Dalo by se říci, že existuje síla, která se jako tisíc klínů snaží vtěsnat nejrůznější adaptované tvory do mezer v ekonomice přírody, nebo spíše tyto mezery vytváří tím, že vytlačuje tvory slabší. Původní příčinou všech těchto tlaků musí být snaha vybrat nejvhodnější stavbu a přizpůsobit ji probíhajícím změnám.“
+
+A mnohem později ve svém životopise – který se s každodenními zápisky místy rozchází – píše: „V říjnu 1838, tedy patnáct měsíců poté, co jsem začal se svým systematickým bádáním, jsem si náhodou pro zábavu četl Malthusův spis O populaci, a jelikož dlouhodobé pozorování zvyklostí zvířat a rostlin mne důkladně připravilo na ideu neustálého boje o přežití, okamžitě mne napadlo, že za takových podmínek budou výhodné odchylky zachovány a nevýhodné zaniknou. Výsledkem bude vznik nových druhů. Konečně jsem tak dospěl k teorii, podle které jsem mohl stavět.“
+Charles Darwin, fotografie pořízená kolem roku 1854. Foto Maull & Fox, volné dílo, CC0 1.0
+
+Proces evoluce je tedy hnán hladem a regulován přírodním výběrem.
+
+Jakkoli Darwin už předtím chápal význam druhových variací, souvislost mezi přírodním a umělým výběrem, souboj mezi živočišnými druhy o přežití, zjevnou fyziologickou vazbu mezi jednotlivými druhy i nepředstavitelně dlouhou časovou škálu evolučních dějů, jakkoli vlastně nosil svou ideu evoluce přírodním výběrem v hlavě už měsíce předtím, její vznik spojuje ve svých poznámkách právě se dnem 28. září 1838, kdy zažil onen bájný stav heuréka, stav docvaknutí posledního dílu skládanky. Múzičtější z historiků to nazývají malthusiánské prozření nebo dokonce malthusiánské zjevení.
+Reverend Malthus a jeho -ismus
+
+„Boj o existenci je Malthusova teorie aplikovaná v mnohem větším měřítku na celou živočišnou a rostlinnou říši,“ napsal Charles Darwin v proslulém spise O vývoji druhů přírodním výběrem z roku 1859. (Ano, dvacet let trvalo, než svoji teorii vypulíroval a odvážil se ji zveřejnit.)
+
+Rovněž Darwinův přítel a vědecký konkurent Alfred Wallace vzpomínal: „Možná tou nejdůležitější knihou, kterou jsem přečetl (o pár let později než Darwin, FH), byla Malthusova Populace, kterou jsem velmi obdivoval pro fakta obsažená v knize i pro příslušné logické závěry. Byla to první práce, kterou jsem do té doby přečetl, v níž se hovořilo o filosofické problematice biologie; hlavní zásady jsem si zapamatoval navždy a o dvacet let později mi poskytly dlouho hledaný klíčový faktor pro teorii evoluce živých druhů.“ (Wallace a Darwin po dohodě zveřejnili tuto teorii společně, ale všichni včetně samotného Wallace uznali Darwinovu prioritu.)
+
+Thomas Malthus stejně jako Darwin vystudoval v Cambridge teologii (a předtím svoji oblíbenou matematiku). Zároveň se zajímal o problémy obyvatelstva v řadě evropských zemí včetně Ruska. V roce 1797 se – jednatřicetiletý – stal anglikánským pastorem, rok nato anonymně vydal spisek Esej o principu populace. Napsal ho velmi výstižně a srozumitelně, vystavěl ho na základech přísné matematické logiky (což bylo v oboru sociálních věd novum). Knížka se stala bestsellerem a do Malthusovy smrti v roce 1834 vyšla (už pod autorovým jménem) ještě pětkrát.
+Titulní strana Eseje o principu populace T.H. Malthuse, vydání z roku 1826. volné dílo, CC0 1.0
+
+Oč v ní šlo? Velmi zjednodušeně: Člověk nikdy nemůže dosáhnout dokonalosti, poněvadž mu to nedovolí hlad. Hlad bude mít proto, že počet lidí poroste geometrickou řadou (1, 2, 4, 8...), zatímco množství potravin pouze řadou aritmetickou (1, 2, 3...). Existují dvě linie řešení: Té „lidské“ (pohlavní zdrženlivost, popřípadě spotřební skromnost) Malthus moc nevěřil; soudil, že lidé jako celek jsou od přírody poživační a množí se nekontrolovatelně. Spíš proto spoléhal na regulaci takříkajíc přirozenou – hladomory, epidemie, války. Proto také vystupoval proti všem formám sociálních podpor chudým, obecněji pak proti veškerým regulačním zásahům státu do ekonomiky. Jeho učení se začalo říkat malthusiánství.
+Thomas Malthus, autor teorie o růstu populace.Foto volné dílo, CC0 1.0
+
+Sám Malthus se přesně podle vlastnoústně hlásaných zásad oženil až ve čtyřiceti. Zplodil tři děti, což se při tehdejší úmrtnosti asi nejvíc blížilo prosté reprodukci v jeho vrstvě.
+Legrace v misce
+
+Druhý dnešní svatováclavský objev je přesně dvakrát mladší než ten Darwinův a také mnohem známější, takže jen stručně: Mikrobiolog Alexander Fleming jako pravý Skot oplýval šetrností a jen velmi nerad věci vyhazoval. Jeho oblíbenou větou prý bylo: „Dejte to někam bokem. Mohlo by se to hodit.“
+
+Během první poloviny roku 1928 Fleming coby patolog jedné londýnské nemocnice studoval bakterie stafylokoků, mikrobů k lidskému tělu běžně neutrálních, avšak schopných také infekce. Časem se v jeho malé laboratoři nakupila spousta nádobek s obsahy v různém stadiu nechutnosti. Když po návratu z dovolené přece jen musel krapet uklidit pro další práci, narazil 28. září 1928 na misku s mikroby, kde bujela plíseň. Nebylo to nic neobvyklého, plísně se dostanou všude vzduchem. Každý jiný by to vyhodil jako banalitu, jenže Fleming si všechno, když už to musel vyhodit, důkladně prohlédl. A všiml si, že kolem sametových ostrůvků plísně mikroby odumřely. Díky přítomnému kolegovi se zachoval i Flemingův bezprostřední komentář: „Tohle je legrační...“
+Profesor Alexander Fleming ve své londýnské laboratoři. V roce 1928 zjistil, že plíseň Penicillium notatum zabíjí některé kmeny bakterií.   Foto volné dílo, CC0 1.0
+
+Ze zvědavosti kousek plísně odtrhl a přesadil do živného roztoku, aby si jí vypěstoval víc. Brzy zjistil, že neznámá látka z plísně působí i na jiné druhy mikrobů než stafylokoky, a to dokonce i ve velmi zředěném stavu. Když se dalšími pokusy na ukázalo, že šťáva z plísně není jedovatá, odhodlal se ji Flemingův kolega vypít. Nic se mu nestalo.
+
+V publikaci napřesrok v červnu Fleming podle matečné plísně Penicillium notatum nazval novou účinnou látku penicilin. V závěrečném shrnutí píše: „Dá se předpokládat, že může být účinným antiseptickým prostředkem k použití vnějšímu i k injekční léčbě částí těla infikovaných mikroby, jež jsou citlivé na penicilin.“
+
+Zatím ale penicilin neúčinkoval. Rušily nečistoty, které ho zároveň rychle kazily. Tohle Fleming vyřešit nedokázal, úkol vyčistit penicilin nebyla práce pro bakteriologa. Teprve chemici Ernst Chain a Howard Florey během druhé světové války v Americe dokázali připravit penicilin dostatečně čistý a ve velkém. Všichni tři jmenovaní dostali v roce 1945 Nobelovu cenu.
+Morfologie objevu
+
+Jako hlavní rozdíl mezi pojednávanými objevy asi většinu z nás napadne jejich prospěšnost. Zatímco penicilin zachránil miliony životů, přírodní evoluce „jen“ odhalila víc o přírodě, životě, člověku, aniž by vedla k nějakému přímému konkrétnímu užitku.
+
+Flemingův případ je klasickým příkladem, kdy objev nikdo nečeká a teprve jím začne další intenzivní výzkum. Takový objev ale nespadne z nebe, potenciální objevitel – řečeno s Pasteurem – „musí dělat věci“, tedy pokusničit, aktivně hledat, třebas něco jiného. Pro výsledek jiný než očekávaný se ustálil výraz serendipita.
+
+Klasickým serendiperem byl Kolumbus – hledal Indii, našel Ameriku. Fleming zkoumal mikroby, narazil na antibiotikum. Pasteur studoval účinky mikrobů slepičího moru na kuřata, přičemž náhodou použil i starou, oslabenou kulturu – a objevil princip aktivní imunizace. Röntgen chtěl důkladněji poznat vlastnosti výbojové trubice a objevil rentgenové záření. Becquerel pátral po dalších možných zdrojích rentgenového záření a objevil radioaktivitu. Kammerlingh-Onnes první zkapalnil helium a s jeho využitím měřil elektrický odpor kovů v blízkosti absolutní nuly. Objevil supravodivost.
+Dobový plakát na poštovní schránce nabízí: Penicilín vyléčí kapavku za čtyři dny.   Foto volné dílo, CC0 1.0
+
+Jestliže Flemingův nečekaný nález antibiotických účinku plísně proces objevování penicilinu zahajuje, otevírá, Darwinovo malthusiánské prozření naproti tomu objev přírodní evoluce završuje, uzavírá. Cesta k takovému rozhodujícímu, konečnému objevu bývá nezřídka trnitá, výsledek pracně naháněný.
+
+Těchto případů je ve vědě méně než těch flemingovských, ale najdou se. Podle legend Archimédovi, hledajícímu způsob měření čistoty zlata v královském obětním věnci, pomohla k jeho „heuréka!“ koupací vana. Mendělejev se několik let usilovně snažil uspořádat chemické prvky do smysluplného systému. Velmi se tím trápil. Až jednou slyšel ze sousedního pokoje Schumannův koncert, uvědomil si funkci oktáv v hudbě a – objevil periodický zákon prvků (tam se vlastnosti zprvu opakují po osmi prvcích). Kekulého zase pronásledovala otázka uspořádání atomů uhlíku v benzenu. Jednoho dne poklimbával před krbem, v němž všelijak tančily plameny, a v duchu uviděl, jak uhlíky v benzenu vytvářejí kruh.
+Od tušení k vědění
+
+Malthus ani Darwin ve své době nemohli vědět to, co my dnes. Oba však postihli něco velkého a hlubokého. Přitom strategie jejich cest k cíli se diametrálně lišily. Malthus si položil dva předpoklady, o nichž předpokládal, že platí (aritmetický růst zdrojů potravin, geometrický růst počtu hladových krků) a z nich pak vydedukoval logický závěr: Bez omezování populace jednou musí přijít hlad. Naproti tomu Darwin na cestě kolem světa nasbíral hromadu konkrétních faktů o zvířatech a ty pomocí indukce – s podporou Malthusova závěru coby důležité cihly do stavby evoluce – úspěšně zobecnil do „teorie, na které se dá stavět“.
+
+Pro lidstvo je malthusiánství životně důležité, ale pro přírodovědu je jenom jedním střípkem do mozaiky darwinismu.
+
+A když už jsme u těch teorií, pak i ony mohou stát jak na konci, tak na počátku procesu poznávání. Nečekané objevy svou teorii vždy předcházejí, pochopitelně. Co Röntgen věděl o elektronových obalech atomů, ve kterých vzniká rentgenové záření? Co Pasteur věděl o podstatě imunity? Co Becquerel o jaderných reakcích?
+
+Cíleně dobývaným objevům naopak teorie alespoň částečně předchází.
+
+Řada chemických prvků byla předpověděna z mezer v periodické tabulce. Černé díry vypočítal už v roce 1916 Schwarzschild, první byla objevena až za 56 let. Antihmotu vypočítal Dirac v roce 1928, první antičástice (pozitron) byla objevena 1932. Pauli předpověděl neutrina roku 1930, objevena byla 1956.
+„Pro lidstvo je malthusiánství životně důležité, ale pro přírodovědu je jenom jedním střípkem do mozaiky darwinismu.“
+
+ 
+
+Do této kapitolky spadá ještě jeden častý případ vztahu mezi tušenou existencí něčeho a jejím vědeckým důkazem. V některých případech je totiž přísný příčinný důkaz, jakkoli by byl pro vědu ideální, nedosažitelný. My můžeme pomocí spekter „číst“ v elektronových obalech atomů a tím kauzálně a kvantitativně vysvětlit rentgenové záření. Rozhodně ale nedokážeme „číst“ v mozku myšlenky a už vůbec ne rozfázovat kroky od vnějšího popudu k myšlence. A tak si pomáháme tím, že sledujeme velký počet případů a výsledek přijmeme za fakt poznaný alespoň pravděpodobnostně.
+
+Kupříkladu tušíme, že bohatství otupuje soucit nebo že moc korumpuje, ale dokázat to můžeme pouze tak, že testujeme velký počet lidí… a potom můžeme říct, že negativní vztah bohatství-soucit platí řekněme u tří čtvrtin lidí. Obrazně řečeno, my se od přírodo-zpytu či –zkumu uchylujeme k přírodo-pisu (a v popularizaci vědy – jak právě můžete vidět – až k přírodo-pindu). Tímto parciálně exaktním způsobem se badatelům podařilo potvrdit či vyvrátit účinky některých léků a terapeutických postupů, ale i řada mouder, rčení, předsudků, sociologických jevů. Nádherným příkladem efektu motýlích křídel neboli složitě promíchané pravděpodobnostní kauzality je předpovídání počasí z porůznu naměřených hodnot meteorologických veličin.
+S Darwinem v koncích
+
+Malthusiánství a darwinismus jsou do sebe pevně zaklesnuty v jakési podivné smyčce. První je jedním z hlavních důsledků druhého v oblasti lidského života, druhý by bez účasti prvního jako důležitého článku příčinného řetězce nefungoval.
+
+Darwinismus v kombinaci s malthusiánstvím klade otázky přesahující jednotlivé lidské životy: Jací a proč opravdu jsme a kam a proč směřujeme? K zodpovězení takových otázek je ale potřeba hlouběji zakomponovat ještě jednu vlivnou lidskou říši – kulturu nebo chcete-li civilizaci.
+
+Sám Malthus s účastí kultury počítal pouze ve svém předpokladu růstu potravin aritmetickou řadou (zřejmě podle něj mělo přibývat polí, chlévů, pastvin, rybolovu). V polovině 19. století však německý chemik Liebig vynalezl umělá hnojiva, což produkci zemědělských plodin znásobilo a zasadilo malthusiánství první ránu – díky vědě a technice začalo potravin přibývat rychleji než aritmeticky. Rána druhá se zřetelněji projevila od 60. let 20. století v podobě tzv. demografického paradoxu – čím líp si žiju, tím míň mám dětí (k čemuž, abychom nezapomněli, podstatně přispěl vynález hormonální antikoncepce).
+Liebigova chemická laboratoř. Odsud vzešla první umělá hnojiva. Ilustrace pochází přibližně z roku 1841.  Ilustrace volné dílo, CC0 1.0
+
+Kdesi jsem četl, že v českých zemích kolem roku 1880 měly rodiny čtyři až pět dětí, před první světovou válkou necelé čtyři, v roce 1930 už jen 2,9. V současnosti u nás na jednu ženu připadá asi 1,6 dítěte, což je hluboko pod hranicí prosté reprodukce. Počet lidí ve vyspělých zemích tedy neporoste geometricky.
+
+Po tomto zjištění jako by byl celý Malthus na odpis.
+
+V současnosti dalšímu růstu produkce nezávadných potravin začíná bránit stále větší vyčerpanost a znečištění prostředí, stagnaci populace zase v růstu spotřeby kompenzují stále větší nároky lidí – geneticky uložený imperativ „přežít, rozmnožit se, odchovat děti“ transmutoval v bytostnou touhu „mít se co nejlíp, maximálně si užít“ (rozuměj protočit co nejvíc statků). Zdá se, že v dostatečné míře neplatí předpoklad, že pokud se má člověk dost dobře, začne si vedle vlastního prospěchu víc všímat i druhých, okolí, budoucnosti; součástí odkazu po přírodním výběru totiž je i imperativ „nikdy neměj dost, nevíš, kdy se to bude hodit“.
+
+(Ostatně s tím přírodním výběrem to taky pokulhává: díky vědě, technice a humanismu přežívají stále neživotaschopnější jedinci, málo odolní, léků potřební, schopni počít pouze s asistencí medicíny a porodit na operačním stole císařským řezem.)
+Sýček Malthus a kosmické světlušky
+
+A tím se dostáváme ke stěžejním otázkám tohoto textu: Jaký vlastně je mocenský vztah přírody a kultury? Nakolik je vůle podporovaná znalostmi a inteligencí schopna blokovat ty negativní z odvěkých lidských pudů, instinktů, emocí – takových, díky nimž jsme se kdysi za dob ledových, hladomorů i všelikých pohrom procpali úzkým hrdlem vývoje, ale které dnes pro nás jako celek představují nástroje morálního hazardu? Do jaké míry dokážeme poslouchat svůj rozum? Může kulturní evoluce přeprat to přežilé z dědictví evoluce biologické? Svedou memy pozměnit geny? Nakolik dokážeme posunout skleněný strop přirozenosti, oddělující dohlédnutelné od dosažitelného?
+„Směr veletoku pozemské civilizace jako celku, ovlivňovaný nikoli jednotlivými Shakespeary, Einsteiny, Janáčky, nýbrž davem Smithů, Schmidtů, Šmídů, tedy i nadále určuje biologie, kultura je něco jako vítr nad vodami. “
+
+ 
+
+Exaktně se tohle nikdy nedozvíme. Můžeme se jen domýšlet z historie, z každodenního života a z psychologických pokusů, přičemž u každého z nás spolupůsobí osobní zkušenost a individuální míra sklonu k přijímání sebeklamů, ať lichotivých, nebo útěšných. Nicméně vypadá to, že veškerá kultura je jen poněkud subtilnější a diferencovanější projev přírodních zákonů a že rozum slouží hlavně k odůvodňování našich vposledku vždy nějak sobeckých zájmů (výjimky, budiž jim čest a sláva, coby vývojově maladaptivní zpravidla špatně dopadají).
+
+Za celou dobu své existence jsme se hluboko uvnitř moc nezměnili. Možná v honosnějších kulisách, možná s vyspělejšími nástroji, ale písničku hrajeme pořád stejnou. A není vůbec žádný objektivní důvod si namlouvat, že se to v historicky dohledné době nějak výrazněji zlepší.
+
+Směr veletoku pozemské civilizace jako celku, ovlivňovaný nikoli jednotlivými Shakespeary, Einsteiny, Janáčky, nýbrž davem Smithů, Schmidtů, Šmídů, tedy i nadále určuje biologie, kultura je něco jako vítr nad vodami. Občas sice zčeří na hladině vlnky, na nichž žijeme své životy, vlnky, které lokálně a krátkodobě mohou zamířit i proti proudu. Ne že by nestály za úsilí, v tu chvíli třeba prospějí jednotlivcům nebo i zástupům, ale konečný směr plynutí neovlivní.
+
+Všechny kultury, na jejichž vzniku se podílel přírodní výběr, dříve či později dospějí k nějaké obdobě malthusiánství i jeho spontánního řešení (nemusí to být hned války o tenčící se zdroje, stačí předčasná úmrtí z otráveného prostředí nebo potíže s reprodukcí). A potom velmi pravděpodobně zkolabují a zaniknou, rozpustí se v oceánu „nižších“, divočejších, odolnějších forem života.
+
+Kopulací darwinismu a malthusiánství v mé hlavě vznikla bláznivá představa: Co asi by spatřoval superman schopný libovolně souhlížet vesmír v nekonečném prostoru i čase? Nejspíš by pozoroval porůznu se mihotající světlušky kosmických civilizací tam, kde se pro ně naplnily podmínky; registroval by záblesky rozumu tu slabé, jinde a jindy silnější, některé kratičké, jiné delší podle toho, jak se každá civilizace během svého vzestupu vypořádala sama se sebou. Moc, opravdu moc bych si přál vidět, kolik by těch světýlek bylo a jak dlouho by zářily.
+František Houdek
